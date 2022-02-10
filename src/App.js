@@ -1,7 +1,7 @@
-import './App.css';
-import React from 'react'
+import "./App.css";
+import React from "react";
 
-let name = 'Nguyễn Bá Phi'
+let name = "Nguyễn Bá Phi";
 // function App() {
 //   return (
 //     <div className="App">
@@ -14,7 +14,7 @@ class App extends React.Component {
   render() {
     return (
       <div className="App">
-        <h1>Hello! {name}</h1>
+        <h1>Hello! {name} đẹp trai mỗi tội nghiện</h1>
       </div>
     );
   }
