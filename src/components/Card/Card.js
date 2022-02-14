@@ -9,7 +9,6 @@ class card extends React.Component {
                     <Item link='aNam.jpg' name='Đình Nam' work='Fullstack Developer'></Item>
                     <Item link='aThai.jpg' name='TháiHM' work='Fullstack Developer'></Item>
                     <Item link='Cuong.jpg' name='CuongNV' work='Fullstack Developer'></Item>
-                    <Item link='Cuong.jpg' name='CuongNV' work='Fullstack Developer'></Item>
                 </div>
     }
 }
