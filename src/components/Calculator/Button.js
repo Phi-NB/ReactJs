@@ -3,10 +3,10 @@ import React from 'react';
 class button extends React.Component {
     constructor(props) {
         super(props)
-        this.textValue = React.createRef()
+        
     }
     handleClick = () => {
-        console.log(this.props.value);
+       
     }
 
     render() {
